@@ -1,0 +1,2 @@
+FILE IN = 1.txt
+FILE OUT = 2.txt

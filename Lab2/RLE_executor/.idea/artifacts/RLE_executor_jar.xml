@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RLE_executor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RLE_executor_jar</output-path>
+    <root id="archive" name="RLE_executor.jar">
+      <element id="module-output" name="RLE_executor" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/pipeline.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
